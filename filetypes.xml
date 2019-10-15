@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="存放mq的方法" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="VideoRecordMapper" type="XML" />
     </extensionMap>
   </component>
